@@ -8,3 +8,5 @@ daewook/house-prices-advanced-regression-techniques
 minjeong/house-prices-advanced-regression-techniques
 daewook/input
 daewook/catboost_info
+daewook/epoch-4-val_loss-0.1057-val_acc-0.9682.keras
+seojin/epoch-9-val_loss-0.0820-val_acc-0.9801.keras
